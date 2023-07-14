@@ -25,3 +25,10 @@ click.alibaba.com
 ad4.com.cn
 appjiagu.com
 andrcool.com
+api.adthor.com
+api.uparpu.com
+api.zcoup.com
+app.appsflyer.com
+euadsapi.manhuaren.com
+graph.facebook.com
+ulogs.umengcloud.com
